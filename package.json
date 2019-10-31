@@ -1,0 +1,22 @@
+{
+  "name": "caree-plugin",
+  "version": "1.0.0",
+  "description": "SignalK Server Plugin for Caree",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aualby/caree-plugin.git"
+  },
+  "keywords": [
+    "Caree"
+  ],
+  "author": "Mark Ballard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aualby/caree-plugin/issues"
+  },
+  "homepage": "https://github.com/aualby/caree-plugin#readme"
+}
