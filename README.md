@@ -1,7 +1,7 @@
 # caree-plugin
 Caree SignalK plugin to run the displays on the yacht
-
-ToDo<br>
+<pre>
+<b>ToDo</b>
 create a basic page setup
 create temperature gauges for 5 inputs
     Outside Air Temperature
@@ -14,3 +14,4 @@ Create Amp Gauge for House Battery Bank
 Create IMU Gauge 3 Axis
 Create Notifications
 Create Hamburger Menu
+</pre>
